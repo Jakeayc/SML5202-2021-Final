@@ -18,9 +18,9 @@ github:
 # --- List of links in the navigation bar --- #
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
-  page1: Home
-  page2: Grammar 
-  page3: Spanish Culture  
-  page4: South American Culture 
-  page5: Spanish-speaking Politics
+  page1: Attractions in Argentina 
+  page2: Bienvenidos/First Day  
+  page3: A Few Days In 
+  page4: A Few Months In 
+  page5: Adios/Last Day 
 
