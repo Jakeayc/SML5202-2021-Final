@@ -6,6 +6,9 @@ title: home
   
   <a title="Dave Johnston, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Animated-Flag-Argentina.gif"><img width="256" alt="Animated-Flag-Argentina" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif"></a>
   
+  <p>
+    <"margin-left=0px;" <a title="Dave Johnston, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Animated-Flag-Argentina.gif"><img width="256" alt="Animated-Flag-Argentina" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif"></a> 
+  
   <h2>Primero, quiero conocerte!</h2>
 
 
