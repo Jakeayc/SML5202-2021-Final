@@ -28,17 +28,15 @@ title: home
 </head>
 <body>
 
-<h2>Three Equal Columns</h2>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-    <h2><a title="See File history below for details., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg"><img width="512" alt="Flag of Argentina" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png"></a></h2>
+    <h2><a title="See File history below for details., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg"><img width="120" alt="Flag of Argentina" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png"></a></h2>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
   </div>
   <div class="column" style="background-color:#ccc;">
-    <h2><a title="See File history below for details., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg"><img width="512" alt="Flag of Argentina" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png"></a></h2>
+    <h2><a title="See File history below for details., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg"><img width="120" alt="Flag of Argentina" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png"></a></h2>
   </div>
 </div>
 
