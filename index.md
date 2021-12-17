@@ -1,9 +1,11 @@
 ---
 title: home
 ---
-<a title="Dave Johnston, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Animated-Flag-Argentina.gif"><img width="256" alt="Animated-Flag-Argentina" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif"></a>
 
 <div class="jake">
+  
+  <a title="Dave Johnston, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Animated-Flag-Argentina.gif"><img width="256" alt="Animated-Flag-Argentina" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif"></a>
+  
 <h1>Bienvenidos Amigos</h1>
   <p>This webpage will explore<strong>Argentine toursist locations</strong>, please note that I have presented some locations off<em>personal experience</em>.</p>
 
