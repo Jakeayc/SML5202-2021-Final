@@ -51,9 +51,9 @@ document.getElementById("demo").innerHTML = "Mucho gusto " + name + "!";
  <ol>
   
   <li>UK winter = Argentina summer <strong>(expensive flights)</strong></li>
-  <li>UK summer = Argentina winter <strong>(cheap<em>er</em> flights)      </strong></li>
+  <li>UK summer = Argentina winter <strong>(cheap<em>er</em> flights)</strong></li>
    <li>UK autumn = Argentina spring</li>
-  <li> ...you get the idea
+   <li> ...you get the idea </li>
   
   </ol> 
   
