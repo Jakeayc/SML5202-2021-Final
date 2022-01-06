@@ -9,7 +9,7 @@ title: home
   
   
 <h1>Bienvenidos Amigos</h1>
-  <p>This webpage will explore <strong>Argentine toursist locations and useful tips to tackle daily life in Argentina</strong>, please note that I have presented some locations and tips off <em>personal experience</em>.</p>
+  <p>This webpage will explore <strong>Argentine toursist locations and useful tips to tackle daily life in Argentina</strong>, please note that I have presented some locations and tips of my <em>personal experience</em>.</p>
   
   <h2>Primero, quiero conocerte!</h2>
 
@@ -67,7 +67,7 @@ document.getElementById("demo").innerHTML = "Mucho gusto " + name + "!";
   <p><a href="https://www.britishairways.com/en-gb/destinations/buenos-aires/flights-to-buenos-aires?DM1_Channel=PPC&DM1_Mkt=UK&DM1_Campaign=UKI_UK_EN_FLIGHTS_GENERIC_LH_LONDON_BUENOS%20AIRES_LON-BUE&SEO=N&DM1_Keyword=DYNAMIC%20SEARCH%20ADS&gclid=Cj0KCQiAw9qOBhC-ARIsAG-rdn4FR9atbg7spb8h3y6UeqTwsNu7yhaHuLsjVG0CsAFG7uTXjJqiESsaAk5hEALw_wcB&gclsrc=aw.ds">Click here to check flights to Argentina now!</a></p>
  
   
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="640" height="480"></iframe>  
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="840" height="780"></iframe>  
   
   
   
