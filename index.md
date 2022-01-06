@@ -41,7 +41,7 @@ document.getElementById("demo").innerHTML = "Mucho gusto " + name + "!";
 </script>
   
 
-<h2>This page is dedicated to showing you copious tourist locations in Argentina depending on your travel preference.</h2>
+  <h2><strong>This page</strong> is dedicated to showing you copious tourist locations in Argentina depending on your travel preference.</h2>
   <h2>Before exploring locations, here are some fun facts about Argentina</h2>
 
 <ul>
