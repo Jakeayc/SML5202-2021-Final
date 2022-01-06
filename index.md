@@ -4,7 +4,7 @@ title: home
 
 <div class="jake">
   
-  <a title="Dave Johnston, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Animated-Flag-Argentina.gif"><img width="256" alt="Animated-Flag-Argentina" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif" title="Dave Johnston, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Animated-Flag-Argentina.gif"><img width="256">
   
   
   
