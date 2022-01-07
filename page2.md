@@ -1,9 +1,7 @@
 ---
 title: Page2
 ---
-
 <div class="jake">
-
 
 <h1>You have just landed in Argentina</h1>
 
@@ -107,7 +105,6 @@ function sortTable() {
 }
 </script>
   
-  
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
@@ -117,6 +114,9 @@ img {
 }
 </style>
 
+  
+  
+  
 <h2>Taxi Scenarios</h2>
 
 <p>This is an exercise to prepare you to communicate with taxi drivers in Argentina as there could be misunderstandings and confusions</p>
@@ -125,10 +125,6 @@ img {
 
 
 <p>Firstly, you will have to <strong>listen to the audio</strong> as many times as you would like. Then <strong>drag the questions</strong> in the order they are said</p>
-
-  
-  
-  
   
   
 <iframe src="https://h5p.org/h5p/embed/1240602" width="1090" height="467" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Taxi scenario"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
