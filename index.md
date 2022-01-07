@@ -80,7 +80,23 @@ document.getElementById("demo").innerHTML = "Mucho gusto " + name + "!";
   </h2>
   
   
-  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="840" height="780"></iframe>  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+</head>
+<body>
+
+<h2>Center an Image</h2>
+<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="1000" height="780">
+
   
   
   
