@@ -75,6 +75,9 @@ document.getElementById("demo").innerHTML = "Mucho gusto " + name + "!";
   
   
   
+  <p> Once you have decided where to go, nativage to the next page to help you prepare for your first day!</p>
+  
+  
   
  </div> 
   
