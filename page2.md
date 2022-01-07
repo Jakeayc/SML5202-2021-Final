@@ -108,7 +108,30 @@ function sortTable() {
 </script>
   
   
-<iframe src="https://h5p.org/h5p/embed/1229089" width="1090" height="682" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Dialog Cards"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<h2>Taxi Scenarios</h2>
+
+<p>This is an exercise to prepare you to communicate with taxi drivers in Argentina as there could be misunderstandings and confusions</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Taxi_in_Buenos_Aires.jpg/512px-Taxi_in_Buenos_Aires.jpg" alt="Taxi in Buenos Aires" style="width:50%;">
+
+
+<p>Firstly, you will have to <strong>listen to the audio</strong> as many times as you would like. Then <strong>drag the questions</strong> in the order they are said</p>
+
+  
+  
+  
+  
+  
+<iframe src="https://h5p.org/h5p/embed/1240602" width="1090" height="467" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Taxi scenario"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 <audio controls>
