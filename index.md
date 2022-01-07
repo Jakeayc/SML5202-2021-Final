@@ -1,8 +1,6 @@
 ---
 title: home
 ---
-
-<div class="jake">
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -101,9 +99,4 @@ iframe {
 </style>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="1000" height="780">
-
   
-  
- </div> 
-  
-
