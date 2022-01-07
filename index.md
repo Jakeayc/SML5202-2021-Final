@@ -4,7 +4,17 @@ title: home
 
 <div class="jake">
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif" title="Dave Johnston, Copyrighted free use, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Animated-Flag-Argentina.gif"><img width="256">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif" width="300" height="200">
   
   
   
@@ -89,11 +99,6 @@ iframe {
   width: 50%;
 }
 </style>
-</head>
-<body>
-
-<h2>Center an Image</h2>
-<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="1000" height="780">
 
