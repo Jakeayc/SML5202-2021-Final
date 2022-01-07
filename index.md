@@ -68,7 +68,7 @@ document.getElementById("demo").innerHTML = "Mucho gusto " + name + "!";
  
   
   
-  <h2>Use this interactive map to explore breathtaking Argentina tourist locations</h2>
+  <h2>Use this interactive map to help you choose where to go!</h2>
   
   
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="840" height="780"></iframe>  
