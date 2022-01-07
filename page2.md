@@ -6,7 +6,108 @@ title: Page2
 
 
 <h1>You have just landed in Argentina</h1>
-<p></p>
+
+  <p>Here is some useful words you can ask or look for to navigate around the airport</p>
+  
+  <title>Sort a HTML Table Alphabetically</title>
+<style>
+table {
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+</style>
+
+<h2>Useful words to know at an Argentine airport</h2>
+<p>Click the button to sort the table alphabetically in English:</p>
+<p><button onclick="sortTable()">Sort</button></p>
+
+<table id="myTable">
+  <tr>
+    <th>English</th>
+    <th>Spanish</th>
+  </tr>
+  <tr>
+    <td>Toilets</td>
+    <td>Baños</td>
+  </tr>
+  <tr>
+    <td>Taxi</td>
+    <td>Taxi (same word)</td>
+  </tr>
+  <tr>
+    <td>Bus Station</td>
+    <td>Estación de Colectivo</td>
+  </tr>
+  <tr>
+    <td>Train Station</td>
+    <td>Estación de Tren</td>
+  </tr>
+  <tr>
+    <td>Underground Station</td>
+    <td>Estación de Subte/Metro</td>
+  </tr>
+  <tr>
+    <td>Information desk</td>
+    <td>Estación de Información</td>
+  </tr>
+  <tr>
+    <td>Currency Exchage</td>
+    <td>Cambio de Moneda</td>
+  </tr>
+  <tr>
+    <td>Lost Property</td>
+    <td>Oficina de Objetos Perdidos</td>
+  </tr>
+</table>
+
+<script>
+function sortTable() {
+  var table, rows, switching, i, x, y, shouldSwitch;
+  table = document.getElementById("myTable");
+  switching = true;
+  /*Make a loop that will continue until
+  no switching has been done:*/
+  while (switching) {
+    //start by saying: no switching is done:
+    switching = false;
+    rows = table.rows;
+    /*Loop through all table rows (except the
+    first, which contains table headers):*/
+    for (i = 1; i < (rows.length - 1); i++) {
+      //start by saying there should be no switching:
+      shouldSwitch = false;
+      /*Get the two elements you want to compare,
+      one from current row and one from the next:*/
+      x = rows[i].getElementsByTagName("TD")[0];
+      y = rows[i + 1].getElementsByTagName("TD")[0];
+      //check if the two rows should switch place:
+      if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+        //if so, mark as a switch and break the loop:
+        shouldSwitch = true;
+        break;
+      }
+    }
+    if (shouldSwitch) {
+      /*If a switch has been marked, make the switch
+      and mark that a switch has been done:*/
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+    }
+  }
+}
+</script>
+  
+  
 <iframe src="https://h5p.org/h5p/embed/1229089" width="1090" height="682" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Dialog Cards"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
