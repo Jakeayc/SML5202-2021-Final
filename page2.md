@@ -122,7 +122,7 @@ img {
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Taxi_in_Buenos_Aires.jpg/512px-Taxi_in_Buenos_Aires.jpg" alt="Taxi in Buenos Aires" style="width:50%;">
 
 
-<p>Firstly, you will have to <strong>listen to the audio</strong> as many times as you would like. Then <strong>drag the questions</strong> in the order they are said</p>
+<p>Firstly, you will have to <strong>listen to the audio</strong> as many times as you would like. Then <strong>drag the questions and their translations</strong> in the order they are said</p>
   
  
 <audio controls>
