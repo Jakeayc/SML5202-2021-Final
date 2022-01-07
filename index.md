@@ -24,7 +24,7 @@ img {
   <h2>Primero, quiero conocerte!</h2>
 
 
-<label>If you go to a Spanish speaking country to meet new people, you will have to ask this question a lot: ¿Como te llamas?</label>
+<label>If you go to a Spanish speaking country to meet new people, you hear this question a lot: ¿Como te llamas?</label>
 <input type="text" id="name">
 <button id="myBtn">Enviar</button>
 
