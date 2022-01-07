@@ -11,14 +11,14 @@
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 33.33%;
+  width: 30.33%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
 .row:after {
-  content: "";
+  content: "Table with vocab";
   display: table;
   clear: both;
 }
