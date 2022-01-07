@@ -30,7 +30,7 @@
 <div class="row">
   <div class="column">
     <h2>Grocery Store</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Supermarkt.jpg" style="width:50%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Supermarkt.jpg" style="width:25%;">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -201,7 +201,7 @@ function myFunction() {
   
   <div class="column">
     <h2>SuperMarket</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/La_Anonima_San_Martin_de_los_Andes_3.jpg" style="width:50%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/La_Anonima_San_Martin_de_los_Andes_3.jpg" style="width:25%;">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
