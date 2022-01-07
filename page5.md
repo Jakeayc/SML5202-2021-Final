@@ -14,7 +14,7 @@
   float: left;
   width: 50%;
   padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
+  height: 125px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
