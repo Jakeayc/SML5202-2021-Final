@@ -395,7 +395,7 @@ function myFunction() {
   
   <div class="column">
     <h2>Ice Cream Flavours</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg" style="width:50%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg" style="width:25%;">
   </div>
 </div>
 
