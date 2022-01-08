@@ -17,9 +17,10 @@ img {
 h1 {text-align: center;}
 div {text-align: center;}
 p {text-align: center;}
-  li {text-align: center;}
-  ol {text-align: center;}
-  ul {text-align: center;}
+li {text-align: center;  
+ol {text-align: center;}
+ul {text-align: center;}
+p1 {text-align: left:}  
 </style>
   
 <h1>Bienvenidos Amigos</h1>
@@ -92,6 +93,9 @@ document.getElementById("demo").innerHTML = "Mucho gusto " + name + "!";
   Use this interactive map to help you choose where to go!
     
   </h2>
+  
+  
+  <p1>Created by Ml20305, Student ID: 200920924</p1>
   
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
