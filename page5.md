@@ -8,6 +8,10 @@ p {text-align: center;}
   <p>As you might know a bit about Argentine culture by now, we <strong>WON'T</strong> run you through boring grammar exercises</p>
   <p>We will try to start a new Argentine chapter for you, to realise that your travels across Argentina have only just begun...</p>
   
+  <h1>Play GeoGuessr on an Argentine map</h1>
+
+<p><a href="https://www.geoguessr.com/maps/argentina">Visit GeoGessr now!</a></p>
+  
   <h2>Search any new locations you have discovered in this website to learn more about its history</h2>
  <script src="wiki.js"></script>
 <header class="searchForm-container">
