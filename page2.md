@@ -3,11 +3,9 @@ title: Page2
 ---  
 <style>
 h1 {text-align: center;}
-h2 {text-align: center;}
-  div {text-align: center;}
+div {text-align: center;}
 p {text-align: center;}
 </style>
-
 
 <h1>You have just landed in Argentina</h1>
 
