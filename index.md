@@ -1,10 +1,9 @@
 ---
 title: home
 ---
-  <style>
+<style>
 h1 {text-align: center;}
-h2 {text-align: center;}
-  div {text-align: center;}
+div {text-align: center;}
 p {text-align: center;}
 </style>
   
