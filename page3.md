@@ -2,7 +2,7 @@
 <h1>You have spent a few days in Argentina</h1>
 <p>This page will help you get used to everyday life in Argentina</p>
 
-<h2>First, here is some vocab on items at a Grocery Store</h2>
+<h2>First, here is some vocab on items in a Grocery Store</h2>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -110,5 +110,72 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-<p>Here is an exercise to help you recognise <strong>a specific item<strong> at a Grocery Store
+<p>Here is an exercise to help you recognise <strong>a specific item</strong> at a Grocery Store
    <iframe src="https://h5p.org/h5p/embed/1240759" width="1090" height="410" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Fruit Selection"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+  <h2>Second, here is some vocab on items in a Supermarket</h2>
+  
+  <style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+<h2>Items at a SuperMarket</h2>
+
+<table>
+  <tr>
+    <th>English</th>
+    <th>Spanish</th>
+  </tr>
+<tr>
+    <td>Cheese</td>
+    <td>Queso</td>
+  </tr>
+  <tr>
+    <td>Butter</td>
+    <td>Manteca</td>
+  </tr>
+  <tr>
+    <td>Bread</td>
+    <td>Pan</td>
+  </tr>
+  <tr>
+    <td>Sweets</td>
+    <td>Dulces</td>
+  </tr>
+  <tr>
+    <td>Drinks</td>
+    <td>Bebidas</td>
+  </tr>
+  <tr>
+    <td>Milk</td>
+    <td>Leche</td>
+  </tr>
+ <tr>
+    <td>Olive Oil</td>
+    <td>Aceite de Oliva</td>
+  </tr>
+  <tr>
+    <td>Sunflower oil</td>
+    <td>Aceite de Girasol</td>
+  </tr>
+  <tr>
+    <td>Toilet Paper</td>
+    <td>Papel Higienico</td>
+  </tr> 
+</table>
+
+
