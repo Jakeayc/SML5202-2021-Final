@@ -1,6 +1,13 @@
 ---
 title: Page2
 ---  
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+p {text-align: center;}
+</style>
+
+
 <h1>You have just landed in Argentina</h1>
 
   <p>Here is some useful words you can ask or look for to navigate around the airport</p>
