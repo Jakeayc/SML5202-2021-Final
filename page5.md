@@ -11,6 +11,8 @@ p {text-align: center;}
   <h1>Play GeoGuessr on an Argentine map</h1>
 
 <p><a href="https://www.geoguessr.com/maps/argentina">Visit GeoGessr now!</a></p>
+
+<h1>Where to next?</h1>
   
   <h2>Search any new locations you have discovered in this website to learn more about its history</h2>
  <script src="wiki.js"></script>
