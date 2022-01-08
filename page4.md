@@ -3,7 +3,9 @@
 
 
 <h2>Song Exercise</h2>
-<p>Listen to <strong>Usted by Diego Torres</strong> and fill in the gaps below</p>
+<p>Listen to <strong>'Usted' by Diego Torres</strong> and fill in the gaps below</p>
+
+<p>This exercise is to help you get used to the Argentine accent</p>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
