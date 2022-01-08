@@ -24,3 +24,17 @@ iframe {
 
 <h2>A quick glance at more Argentine Culture</h2>
 <iframe src="https://h5p.org/h5p/embed/1240815" width="1090" height="704" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Local Words"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
+
+
+<h1>More Info on Argentine Culture</h1>
+
+<p><a href="https://culturalatlas.sbs.com.au/argentine-culture/argentine-culture-core-concepts">Visit Cultural Atlas now!</a></p>
+
