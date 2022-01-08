@@ -181,3 +181,17 @@ tr:nth-child(even) {
 <p>Here is an exercise to help you recognise <strong>a specific item</strong> at a Supermarket
 
 <iframe src="https://h5p.org/h5p/embed/1240775" width="1090" height="729" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Match the picture with the correct word"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+  
+  <h1>More learning</h1>
+  <ol>
+  <li>  
+  <p>If you feel you need more help, <a href="https://www.digitaldialects.com/Spanish/Fruit.htm"> CLICK HERE</a> to check out 'Digital Dialects' for more exercises on fruits and veg!</p>
+</li>
+  <li>  
+  <p>If you feel you need more help with items in a supermarket, <a href="https://www.digitaldialects.com/Spanish/Fruit.htm"> CLICK HERE</a> to check out 'ScincerelySpanish.com' for more exercises on supermarket items!</p>
+</li>
+ 
+</ol> 
+
+  
