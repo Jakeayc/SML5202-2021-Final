@@ -1,11 +1,8 @@
 <style>
 h1 {text-align: center;}
-h2 {text-align: center;}
-  div {text-align: center;}
+div {text-align: center;}
 p {text-align: center;}
 </style>
-
-
 
 <h1>Your Final Day in Argentina</h1>
   <p>As you might know a bit about Argentine culture by now, we <strong>WON'T</strong> run you through boring grammar exercises</p>
