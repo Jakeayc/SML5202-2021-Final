@@ -14,6 +14,9 @@ p {text-align: center;}
 
 <h1>Where to next?</h1>
   
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="1000" height="780">
+  
+  
   <h2>Search any new locations you have discovered in this website to learn more about its history</h2>
  <script src="wiki.js"></script>
 <header class="searchForm-container">
