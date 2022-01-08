@@ -4,6 +4,7 @@ title: home
   <style>
 h1 {text-align: center;}
 h2 {text-align: center;}
+  div {text-align: center;}
 p {text-align: center;}
 </style>
   
