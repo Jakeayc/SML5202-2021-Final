@@ -1,13 +1,6 @@
 ---
 title: home
 ---
-<style>
-h1 {text-align: center;}
-div {text-align: center;}
-p {text-align: center;}
-</style>
-  
-  
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img {
@@ -20,7 +13,11 @@ img {
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif" width="300" height="200">
   
-  
+  <style>
+h1 {text-align: center;}
+div {text-align: center;}
+p {text-align: center;}
+</style>
   
 <h1>Bienvenidos Amigos</h1>
   <p>This webpage will explore <strong>Argentine toursist locations and useful tips to tackle daily life in Argentina</strong>, please note that I have presented some locations and tips of my <em>personal experience</em>.</p>
