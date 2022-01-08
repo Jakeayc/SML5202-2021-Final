@@ -17,7 +17,7 @@ img {
 h1 {text-align: center;}
 div {text-align: center;}
 p {text-align: center;}
-li {text-align: center;}
+ul {text-align: center;}
 </style>
   
 <h1>Bienvenidos Amigos</h1>
