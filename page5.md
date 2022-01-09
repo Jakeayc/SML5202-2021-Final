@@ -12,7 +12,7 @@ p {text-align: center;}
   
   <h1>Play GeoGuessr on an Argentine map</h1>
 
-<p><a href="https://www.geoguessr.com/maps/argentina">Visit GeoGessr now!</a></p>
+<p><a href="https://www.geoguessr.com">Visit GeoGessr now!</a></p>
 
 <p><strong>References</strong></p>
   <p> © Copyright 2022. H5P  a registered trademark of Joubel. </p>
