@@ -14,6 +14,9 @@ p {text-align: center;}
 
 <p><a href="https://www.geoguessr.com/maps/argentina">Visit GeoGessr now!</a></p>
 
+<p>References</>
+  <p> © Copyright 2022. H5P  a registered trademark of Joubel. </p>
+
 <h1>Where to next?</h1>
   
   <style> iframe { display: block; margin-left: auto; margin-right: auto; width: 50%; } </style> <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15qkLOk5wSpCVq713TvmI2Fln03gpT2Ma&ehbc=2E312F" width="700" height="580">
