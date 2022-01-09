@@ -11,7 +11,10 @@ img {
 }
 </style>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif" width="300" height="200">
+
+<a href="https://www.gov.uk/foreign-travel-advice/argentina"><img width="300" height="200" alt="Flag of Argentina" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Animated-Flag-Argentina.gif"></a>
+
+<p>Click on the flag to check the UK Government guidelines on travel to Argentina</p>
   
   <style>
 h1 {text-align: center;}
