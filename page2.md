@@ -9,7 +9,7 @@ p {text-align: center;}
 
 <h1>You have just landed in Argentina</h1>
 
-  <p>Here is some useful words you can ask or look for to navigate around the airport</p>
+  <p>Here are some useful words you can ask or look for to navigate around the airport</p>
   
   <title>Sort a HTML Table Alphabetically</title>
 <style>
